@@ -17,6 +17,8 @@
 
 key: DT
 name: Duchy of Tamarind
+# sucsCodes:
+#   - DT
 capital: Tamarind
 successor: DTA
 tags:

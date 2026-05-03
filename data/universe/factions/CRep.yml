@@ -17,6 +17,7 @@
 
 key: CRep
 name: Capellan Republic
+# sucsCodes: []  # no SUCS equivalent
 capital: Capella
 successor: CH
 tags:

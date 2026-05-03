@@ -17,6 +17,8 @@
 
 key: CTL
 name: Chesterton Trade Federation
+# sucsCodes:
+#   - CTF
 capital: Terra
 successor: CC
 tags:

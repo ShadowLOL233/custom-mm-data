@@ -17,6 +17,8 @@
 
 key: OMA
 name: Ozawa Mercantile Association
+# sucsCodes:
+#   - OMA
 capital: Terra
 tags:
   - TRADER

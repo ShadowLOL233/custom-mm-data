@@ -17,6 +17,7 @@
 
 key: IS
 name: Inner Sphere - General
+# sucsCodes: []  # no SUCS equivalent
 tags:
   - IS
   - AGGREGATE
