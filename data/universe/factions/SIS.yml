@@ -17,6 +17,8 @@
 
 key: SIS
 name: Sian Supremacy
+sucsCodes:
+  - SiS
 capital: Terra
 successor: CCom
 tags:

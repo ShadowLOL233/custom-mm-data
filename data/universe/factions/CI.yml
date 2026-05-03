@@ -17,6 +17,8 @@
 
 key: CI
 name: Chainelane Isles
+sucsCodes:
+  - CI
 capital: Terra
 tags:
   - MINOR

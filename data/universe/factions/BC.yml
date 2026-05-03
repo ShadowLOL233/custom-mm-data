@@ -17,6 +17,7 @@
 
 key: BC
 name: Buena Collective
+sucsCodes: []  # no SUCS equivalent
 capital: Buena
 tags:
   - MINOR

@@ -17,6 +17,8 @@
 
 key: LR
 name: Liao Republic
+sucsCodes:
+  - LR
 capital: Terra
 tags:
   - IS

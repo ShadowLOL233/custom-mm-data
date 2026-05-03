@@ -17,6 +17,8 @@
 
 key: ME
 name: Muskegon Coalition
+sucsCodes:
+  - MuC
 capital: Muskegon
 successor: FS
 tags:

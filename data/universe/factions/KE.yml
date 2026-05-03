@@ -17,6 +17,7 @@
 
 key: KE
 name: Khwarazm Empire
+sucsCodes: []  # no SUCS equivalent
 capital: Terra
 tags:
   - MINOR

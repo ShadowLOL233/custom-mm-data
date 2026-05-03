@@ -17,6 +17,8 @@
 
 key: FoS
 name: Federation of Skye
+sucsCodes:
+  - FoS
 capital: Terra
 successor: LA
 tags:
