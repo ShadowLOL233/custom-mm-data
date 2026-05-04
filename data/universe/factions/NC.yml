@@ -52,7 +52,7 @@ ratingLevels:
   - B
   - A
 fallBackFactions:
-  - DP
+  - Periphery.Deep
 factionLeaders:
   - title: "King"
     firstName: "Joseph"

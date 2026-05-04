@@ -54,7 +54,7 @@ ratingLevels:
   - B
   - A
 fallBackFactions:
-  - DP
+  - Periphery.Deep
 factionLeaders:
   - title: "Captain-Marshal"
     firstName: "Helga"

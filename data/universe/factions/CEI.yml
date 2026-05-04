@@ -58,7 +58,7 @@ ratingLevels:
   - Keshik
 fallBackFactions:
   - NC
-  - DP
+  - Periphery.Deep
   - CGS
   - UC
 factionLeaders:

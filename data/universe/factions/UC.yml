@@ -54,7 +54,7 @@ ratingLevels:
   - A
 fallBackFactions:
   - NC
-  - DP
+  - Periphery.Deep
 factionLeaders:
   - title: "Caliph"
     firstName: "Joshua"
