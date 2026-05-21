@@ -1101,48 +1101,35 @@
                 <option weightClass="A,A,H,H,M">%ELEMENT%</option>
             </subforceOption>
             <subforceOption ifWeightClass="H">
-                <option weightClass="A,H,H,H,M"
-                        ifFlags="!hussar">%ELEMENT%
-                </option>
-                <option weightClass="A,A,H,M,M"
-                        ifFlags="!hussar">%ELEMENT%
-                </option>
-                <option weightClass="H,H,H,H,H" ifFlags="!hussar"
-                        weight="2">%ELEMENT%
-                </option>
-                <option weightClass="H,H,H,H,M" ifFlags="!hussar"
-                        weight="2">%ELEMENT%
-                </option>
+
                 <option weightClass="H,H,H,M,M">%ELEMENT%</option>
-                <option weightClass="H,H,H,M,L">%ELEMENT%</option>
-                <option weightClass="H,H,H,M,L"
-                        ifFlags="hussar">%ELEMENT%
-                </option>
-            </subforceOption>
+
+                <option weightClass="H,H,H,H,M" weight="2">%ELEMENT%</option>
+
+                <option weightClass="H,H,H,H,H" weight="2">%ELEMENT%</option>
+
+                <option weightClass="A,H,H,H,M">%ELEMENT%</option>
+</subforceOption>
             <subforceOption ifWeightClass="M">
-                <option weightClass="H,H,M,M,M">%ELEMENT%</option>
-                <option weightClass="H,H,M,M,L">%ELEMENT%</option>
-                <option weightClass="H,H,M,L,L">%ELEMENT%</option>
-                <option weightClass="H,M,M,M,M"
-                        weight="2">%ELEMENT%
-                </option>
-                <option weightClass="M,M,M,M,M"
-                        weight="2">%ELEMENT%
-                </option>
+
                 <option weightClass="M,M,M,M,L">%ELEMENT%</option>
-            </subforceOption>
+
+                <option weightClass="M,M,M,M,M" weight="2">%ELEMENT%</option>
+
+                <option weightClass="H,M,M,M,M" weight="2">%ELEMENT%</option>
+
+                <option weightClass="H,H,M,M,M">%ELEMENT%</option>
+</subforceOption>
             <subforceOption ifWeightClass="L">
-                <option weightClass="H,M,M,L,L">%ELEMENT%</option>
-                <option weightClass="M,M,M,L,L">%ELEMENT%</option>
-                <option weightClass="H,L,L,L,L">%ELEMENT%</option>
-                <option weightClass="M,M,L,L,L"
-                        weight="2">%ELEMENT%
-                </option>
-                <option weightClass="M,L,L,L,L"
-                        weight="2">%ELEMENT%
-                </option>
+
                 <option weightClass="L,L,L,L,L">%ELEMENT%</option>
-            </subforceOption>
+
+                <option weightClass="M,L,L,L,L" weight="2">%ELEMENT%</option>
+
+                <option weightClass="M,M,L,L,L" weight="2">%ELEMENT%</option>
+
+                <option weightClass="H,M,M,L,L">%ELEMENT%</option>
+</subforceOption>
         </subforces>
         <subforces ifUnitType="ProtoMek">
             <subforce num="5">%POINT%</subforce>

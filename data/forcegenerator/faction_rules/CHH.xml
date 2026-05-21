@@ -2157,45 +2157,35 @@
                 <option weightClass="A,A,H,H,M">%ELEMENT%</option>
             </subforceOption>
             <subforceOption ifWeightClass="H" ifUnitType="Mek">
-                <option weightClass="A,H,H,H,M">%ELEMENT%</option>
-                <option weightClass="A,A,H,M,M">%ELEMENT%</option>
-                <option weightClass="H,H,H,H,H"
-                        weight="2">%ELEMENT%
-                </option>
-                <option weightClass="H,H,H,H,M"
-                        weight="2">%ELEMENT%
-                </option>
+
                 <option weightClass="H,H,H,M,M">%ELEMENT%</option>
-                <option weightClass="H,H,H,M,L">%ELEMENT%</option>
-            </subforceOption>
+
+                <option weightClass="H,H,H,H,M" weight="2">%ELEMENT%</option>
+
+                <option weightClass="H,H,H,H,H" weight="2">%ELEMENT%</option>
+
+                <option weightClass="A,H,H,H,M">%ELEMENT%</option>
+</subforceOption>
             <subforceOption ifWeightClass="M" ifUnitType="Mek">
-                <option weightClass="H,H,M,M,M">%ELEMENT%</option>
-                <option weightClass="H,H,M,M,L">%ELEMENT%</option>
-                <option weightClass="H,H,M,L,L">%ELEMENT%</option>
-                <option weightClass="H,M,M,M,M"
-                        weight="2">%ELEMENT%
-                </option>
-                <option weightClass="M,M,M,M,M"
-                        weight="2">%ELEMENT%
-                </option>
+
                 <option weightClass="M,M,M,M,L">%ELEMENT%</option>
-            </subforceOption>
+
+                <option weightClass="M,M,M,M,M" weight="2">%ELEMENT%</option>
+
+                <option weightClass="H,M,M,M,M" weight="2">%ELEMENT%</option>
+
+                <option weightClass="H,H,M,M,M">%ELEMENT%</option>
+</subforceOption>
             <subforceOption ifWeightClass="L" ifUnitType="Mek">
-                <option weightClass="H,M,M,L,L"
-                        ifFlags="!horde|ranger">%ELEMENT%
-                </option>
-                <option weightClass="M,M,M,L,L">%ELEMENT%</option>
-                <option weightClass="H,L,L,L,L"
-                        ifFlags="!horde|ranger">%ELEMENT%
-                </option>
-                <option weightClass="M,M,L,L,L"
-                        weight="2">%ELEMENT%
-                </option>
-                <option weightClass="M,L,L,L,L"
-                        weight="2">%ELEMENT%
-                </option>
+
                 <option weightClass="L,L,L,L,L">%ELEMENT%</option>
-            </subforceOption>
+
+                <option weightClass="M,L,L,L,L" weight="2">%ELEMENT%</option>
+
+                <option weightClass="M,M,L,L,L" weight="2">%ELEMENT%</option>
+
+                <option weightClass="H,M,M,L,L">%ELEMENT%</option>
+</subforceOption>
             <subforce ifUnitType="ProtoMek"
                       generate="" num="5">%POINT%
             </subforce>
